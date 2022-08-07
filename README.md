@@ -1,5 +1,5 @@
 # kalictf
-The official Kali Linux image found in the Docker Hub has no default tools, so starting from that I created this image ready to play CTFs and/or other similar stuff. Some tools present are CTFs-related, while others are general (such as man-db, build-essential...).  
+The official Kali Linux image in the Docker Hub has no default tools, so starting from that I created this image ready to play CTFs and/or other similar stuff. Some tools present are CTFs-related, while others are general (such as man-db, build-essential...).  
 Here is the complete list of installed tools:
 - man-db
 - build-essential
