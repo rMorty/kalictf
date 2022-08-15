@@ -51,5 +51,6 @@ Here is the complete list of installed tools:
 - exiftool
 - binwalk
 - tshark
-### Installation
+### Docker pull instructions
 Visit https://hub.docker.com/r/rmorty/kalictf
+
