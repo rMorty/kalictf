@@ -51,6 +51,12 @@ Here is the complete list of installed tools:
 - exiftool
 - binwalk
 - tshark
+
 ### Docker pull instructions
-Visit https://hub.docker.com/r/rmorty/kalictf
+Visit https://hub.docker.com/r/rmorty/kalictf  
+
+### Starting the container
+1. Check the Image ID with `$ docker images`  
+2. Create container with `$ docker run -it --name [container_name] [ImageID] /bin/bash` (this will create the container and start it automatically)  
+3. On new sessions, start the container with `$ docker start [container_name]` followed by `$ docker attach [container_name]`
 
