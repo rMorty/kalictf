@@ -53,6 +53,11 @@ Here is the complete list of installed tools:
 - tshark
 - hping3
 - searchsploit
+- samba
+- smbclient
+- smbmap
+- enum4linux
+- nbtscan
 
 ### Docker pull instructions
 Visit https://hub.docker.com/r/rmorty/kalictf  
