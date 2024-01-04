@@ -51,6 +51,8 @@ Here is the complete list of installed tools:
 - exiftool
 - binwalk
 - tshark
+- hping3
+- searchsploit
 
 ### Docker pull instructions
 Visit https://hub.docker.com/r/rmorty/kalictf  
